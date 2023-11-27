@@ -1,0 +1,8 @@
+B:\OOP\Lab_8\ConfigurationManager\bin\Debug\ConfigurationManager.exe.config
+B:\OOP\Lab_8\ConfigurationManager\bin\Debug\ConfigurationManager.exe
+B:\OOP\Lab_8\ConfigurationManager\bin\Debug\ConfigurationManager.pdb
+B:\OOP\Lab_8\ConfigurationManager\obj\Debug\ConfigurationManager.csproj.AssemblyReference.cache
+B:\OOP\Lab_8\ConfigurationManager\obj\Debug\ConfigurationManager.csproj.SuggestedBindingRedirects.cache
+B:\OOP\Lab_8\ConfigurationManager\obj\Debug\ConfigurationManager.csproj.CoreCompileInputs.cache
+B:\OOP\Lab_8\ConfigurationManager\obj\Debug\ConfigurationManager.exe
+B:\OOP\Lab_8\ConfigurationManager\obj\Debug\ConfigurationManager.pdb

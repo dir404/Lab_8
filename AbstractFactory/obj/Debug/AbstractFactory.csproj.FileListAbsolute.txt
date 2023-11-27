@@ -1,0 +1,8 @@
+B:\OOP\Lab_8\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+B:\OOP\Lab_8\AbstractFactory\bin\Debug\AbstractFactory.exe
+B:\OOP\Lab_8\AbstractFactory\bin\Debug\AbstractFactory.pdb
+B:\OOP\Lab_8\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+B:\OOP\Lab_8\AbstractFactory\obj\Debug\AbstractFactory.csproj.SuggestedBindingRedirects.cache
+B:\OOP\Lab_8\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+B:\OOP\Lab_8\AbstractFactory\obj\Debug\AbstractFactory.exe
+B:\OOP\Lab_8\AbstractFactory\obj\Debug\AbstractFactory.pdb

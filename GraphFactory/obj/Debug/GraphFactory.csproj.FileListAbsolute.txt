@@ -1,0 +1,8 @@
+B:\OOP\Lab_8\GraphFactory\bin\Debug\GraphFactory.exe.config
+B:\OOP\Lab_8\GraphFactory\bin\Debug\GraphFactory.exe
+B:\OOP\Lab_8\GraphFactory\bin\Debug\GraphFactory.pdb
+B:\OOP\Lab_8\GraphFactory\obj\Debug\GraphFactory.csproj.AssemblyReference.cache
+B:\OOP\Lab_8\GraphFactory\obj\Debug\GraphFactory.csproj.SuggestedBindingRedirects.cache
+B:\OOP\Lab_8\GraphFactory\obj\Debug\GraphFactory.csproj.CoreCompileInputs.cache
+B:\OOP\Lab_8\GraphFactory\obj\Debug\GraphFactory.exe
+B:\OOP\Lab_8\GraphFactory\obj\Debug\GraphFactory.pdb
